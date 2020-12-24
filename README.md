@@ -1,2 +1,2 @@
-# FSWD80-Bootstrap-DAY01-Marina-Sarah
+# FSWD80-Bootstrap-DAY01
 Bootstrap
